@@ -36,7 +36,7 @@ Desenvolvedor com trajetória iniciada em **2011**. Este perfil é um museu vivo
 
 ## 📊 Destaques do Repositório
 * **[Campo-minado-VB6-2011](https://github.com/Gabrielsgouvea/Campo-minado-VB6-2011):** Minha primeira versão jogável (Onde tudo começou!).
-* **[boas-vindas-Python](https://github.com/Gabrielsgouvea/boas-vindas-Python):** A evolução de um robô de 2012 para a tecnologia de 2026.
+* **[Boas-vindas-Python](https://github.com/Gabrielsgouvea/Boas-vindas-Python):** A evolução de um robô de 2012 para a tecnologia de 2026.
 * **[Space-Invaders-web-IA](https://github.com/Gabrielsgouvea/Space-Invaders-web-usando-IA):** Desenvolvimento moderno sem frameworks, auxiliado por IA.
 
 ---
